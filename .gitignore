@@ -18,6 +18,7 @@ env/
 venv/
 ENV/
 *.env
+.venvDeOp/
 
 # --- Jupyter and notebooks ---
 .ipynb_checkpoints/
