@@ -3,6 +3,7 @@ name: Build and Deploy Azure Container Apps
 on:
   push:
     branches:
+      - ElDeploy
       - main
   workflow_dispatch:
 
