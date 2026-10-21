@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - ElDeploy
+      
   workflow_dispatch:
 
 permissions:
